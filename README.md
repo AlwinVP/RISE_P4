@@ -16,13 +16,6 @@ A lightweight, responsive, and offline-capable To-Do List web application that a
 
 ---
 
-## 🚀 Live Demo
-
-> _Coming soon..._  
-You can deploy this easily on GitHub Pages or Netlify.
-
----
-
 ## 🛠️ Built With
 
 - **HTML5**
